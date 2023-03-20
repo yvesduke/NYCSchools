@@ -1,0 +1,4 @@
+module CwlPreconditionTesting {
+header "CwlPreconditionTesting-Swift.h"
+export *
+}

@@ -1,0 +1,4 @@
+module CwlCatchException {
+header "CwlCatchException-Swift.h"
+export *
+}

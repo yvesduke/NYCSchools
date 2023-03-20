@@ -1,0 +1,59 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "5b1c169c1d57733c5db76c3523f5fdb370f76388fb6a6ab9121abf2183302df8"
+build_start_time: [1674125400, 243443012]
+build_end_time: [1674125428, 782400131]
+inputs:
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/Behavior.swift"
+  : [1674077341, 554115295]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/Callsite.swift"
+  : [1674077341, 554272174]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/Configuration/QCKConfiguration.swift"
+  : [1674077341, 554615974]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/Configuration/QuickConfiguration.swift"
+  : [1674077341, 554972648]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/DSL/DSL.swift"
+  : [1674077341, 555461168]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/DSL/World+DSL.swift"
+  : [1674077341, 555809020]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/ErrorUtility.swift"
+  : [1674077341, 556034088]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/ExampleGroup.swift"
+  : [1674077341, 556278228]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/Examples/Example.swift"
+  : [1674077341, 556576967]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/Examples/ExampleMetadata.swift"
+  : [1674077341, 556896209]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/Filter.swift"
+  : [1674077341, 557090997]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/Hooks/Closures.swift"
+  : [1674077341, 557393074]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/Hooks/ExampleHooks.swift"
+  : [1674077341, 557572364]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/Hooks/HooksPhase.swift"
+  : [1674077341, 557719707]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/Hooks/SuiteHooks.swift"
+  : [1674077341, 557887077]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/NSBundle+CurrentTestBundle.swift"
+  : [1674077341, 558181524]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/QuickMain.swift"
+  : [1674077341, 558328151]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/QuickSelectedTestSuiteBuilder.swift"
+  : [1674077341, 558496475]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/QuickSpec.swift"
+  : [1674077341, 558967113]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/QuickTestObservation.swift"
+  : [1674077341, 559237480]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/QuickTestSuite.swift"
+  : [1674077341, 559565544]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/StopTest.swift"
+  : [1674077341, 559827327]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/String+C99ExtendedIdentifier.swift"
+  : [1674077341, 560180664]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/SubclassDetection.swift"
+  : [1674077341, 560388326]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/TestState.swift"
+  : [1674077341, 560676336]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/URL+FileName.swift"
+  : [1674077341, 560975551]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/Quick/Sources/Quick/World.swift"
+  : [1674077341, 561200618]

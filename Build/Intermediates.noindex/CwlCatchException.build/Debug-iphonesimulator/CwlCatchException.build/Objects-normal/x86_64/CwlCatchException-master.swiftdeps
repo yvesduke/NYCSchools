@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "304d03e018b1b7c0039ea24ebfe299cf253dbe07a7abb27c538f158b311fc63d"
+build_start_time: [1674125400, 418439865]
+build_end_time: [1674125410, 430131912]
+inputs:
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/CwlCatchException/Sources/CwlCatchException/CwlCatchException.swift"
+  : [1674077482, 885169029]

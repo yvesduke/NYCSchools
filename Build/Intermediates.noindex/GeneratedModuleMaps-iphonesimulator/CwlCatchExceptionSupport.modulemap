@@ -1,0 +1,4 @@
+module CwlCatchExceptionSupport {
+umbrella "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/CwlCatchException/Sources/CwlCatchExceptionSupport/include"
+export *
+}

@@ -1,0 +1,4 @@
+module Quick {
+header "Quick-Swift.h"
+export *
+}

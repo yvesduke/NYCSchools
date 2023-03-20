@@ -1,0 +1,4 @@
+module CwlMachBadInstructionHandler {
+umbrella header "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/CwlPreconditionTesting/Sources/CwlMachBadInstructionHandler/include/CwlMachBadInstructionHandler.h"
+export *
+}

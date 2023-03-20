@@ -1,0 +1,4 @@
+module Nimble {
+header "Nimble-Swift.h"
+export *
+}

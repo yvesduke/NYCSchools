@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "dc23c01e63999237376baa797fc5fe7ee912b8570946f5fbbcef9c8986ae6a37"
+build_start_time: [1674125409, 191360950]
+build_end_time: [1674125425, 893043994]
+inputs:
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/CwlPreconditionTesting/Sources/CwlPreconditionTesting/CwlBadInstructionException.swift"
+  : [1674077482, 18697261]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/CwlPreconditionTesting/Sources/CwlPreconditionTesting/CwlCatchBadInstruction.swift"
+  : [1674077482, 18950462]
+  ? "/Users/apple/Library/Developer/Xcode/DerivedData/20230112-YvesDukuze-NYCSchools-fmbrnmvpoubcuhhbdcinmfkplqgz/SourcePackages/checkouts/CwlPreconditionTesting/Sources/CwlPreconditionTesting/CwlDarwinDefinitions.swift"
+  : [1674077482, 19146919]
