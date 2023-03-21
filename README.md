@@ -1,14 +1,14 @@
 # NYCSchools
 
 #### Intro :
-This is a native app to provide information on NYC High schools. this app fetches data from the City of Newyork Api and displays a list of high schools name, location and phone number. The app also allows users to click on any of the school to view school's detail. The detail view also has an option to see SATs Results for a selected school. The app is implemented following MVVM architecture with UIKit and escaping closures for service call.
+This is a native app to provide information on NYC High schools. this app fetches data from the City of Newyork Api and displays a list of high schools name, location and phone number. The app also allows users to click on any of the school to view school's detail. The detail view also has an option to view SATs Results for a selected school. The app is implemented following MVVM architecture with UIKit and escaping closures for service call.
 
 #### Quick start :
 Using either a real device or a simulator, lunch the app and you will be presented with a list of Products and their prices. You can scroll up and down to see a full list of products. If you click on one of the product displayed on the list, you will be presented with a detail page containing product tittle and Product description.
 
 #### Status :
-- Implement the API calls using URLSession to retrieve the necessary data, parse JSON data with Codable, and display it in the app's user interface using UIKit.
-- The app currenlty supports different ios screen sizes and targets ios 13 and above
+- Implement the API calls using URLSession to retrieve the necessary data, parse JSON data with JSONDecoder, and display it in the app's user interface using UIKit.
+- The app currenlty supports different iOS screen sizes and targets iOS 13 and above
 - Writen unit tests using XCTest framework for the critical components such as data retrieval and parsing to ensure the app's reliability and maintainability.
 
 #### What's included :
